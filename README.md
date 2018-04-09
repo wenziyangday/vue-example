@@ -1,6 +1,6 @@
 # vue-example
 
-> A Vue.js project
+> 测试部署到github pages 上的项目
 
 ## Build Setup
 
